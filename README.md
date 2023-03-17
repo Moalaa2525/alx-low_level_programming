@@ -1,6 +1,9 @@
-[main 1eb0fc5] score 1
- 5 files changed, 36 insertions(+), 1 deletion(-)
- create mode 100755 2-assembler
- create mode 100755 3-name
- create mode 100755 4-puts.c
- create mode 100644 5-printf.c
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
